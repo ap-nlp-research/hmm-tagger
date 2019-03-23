@@ -1,0 +1,4 @@
+numpy==1.16.2
+matplotlib==3.0.3
+jupyter==1.0.0
+pomegranate==0.11.0
